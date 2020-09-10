@@ -2,7 +2,7 @@
 lock "~> 3.14.1"
 
 set :application, "demo_hoanghh"
-set :repo_url, "https://github.com/RailsApps/rails-signup-thankyou.git"
+set :repo_url, "https://github.com/hohuyhoangbk/myapp.git"
 
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
